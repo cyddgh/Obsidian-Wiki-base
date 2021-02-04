@@ -1,0 +1,16 @@
+/* 粗體 */
+strong {
+  color: red;
+}
+
+/* 斜體 */
+em {
+  color: blue;
+  --font-style: normal; /*不要斜體：刪除開頭的減號*/
+}
+
+/* 刪除 */
+s {
+  color: green;
+  text-decoration: none;
+}

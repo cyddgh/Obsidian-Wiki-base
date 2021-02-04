@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "02日常閱讀/百科/2021.01.17互惠焦慮.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "638c808c6bed66e3",
+            "id": "91af1b05f047177e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 159
   },
   "right": {
     "id": "371e0d611fd9d248",
@@ -98,25 +98,33 @@
                 "file": "02日常閱讀/百科/2021.01.17互惠焦慮.md"
               }
             }
+          },
+          {
+            "id": "fe22cb436c716767",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 228,
+    "width": 225,
     "collapsed": true
   },
   "lastOpenFiles": [
     "02日常閱讀/百科/2021.01.17互惠焦慮.md",
-    "02日常閱讀/百科/2021.01.22知識結構.md",
-    "02日常閱讀/百科/2021.01.24情緒指數法.md",
     "02日常閱讀/百科/2021.01.27學習高原現象.md",
+    "02日常閱讀/百科/2021.01.24情緒指數法.md",
+    "02日常閱讀/百科/2021.01.22知識結構.md",
+    "02日常閱讀/影片/Untitled.md",
+    "Untitled.md",
     "02日常閱讀/百科/2021.01.29情緒指數法.md",
     "02日常閱讀/百科/學習高原現象.md",
     "02日常閱讀/百科/情緒指數法.md",
-    "02日常閱讀/百科/知識結構.md",
-    "02日常閱讀/百科/2021.1.17互惠焦慮.md",
-    "02日常閱讀/百科/互惠焦慮.md"
+    "02日常閱讀/百科/知識結構.md"
   ]
 }
